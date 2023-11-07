@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     
-    int num1, num2, sum;
+    int num1, num2, sum, sum2;
 
     num1 = 10;
 
@@ -13,7 +13,7 @@ int main()
 
     sum = num1 + num2;
 
-    cout << "hello world." << endl;
+    cout << "sum is " << sum << endl;
     //added line
 
     return 0;
